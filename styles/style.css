@@ -1,9 +1,8 @@
 /*meu primeiro arquivo css*/ 
 body{
     color: #444;
-    background: rgb(215,187,218);
-    background: linear-gradient(90deg, rgba(215,187,218,1) 11%, rgba(255,62,238,1) 35%, rgba(0,212,255,1) 100%);
-
+    background: #fff(215,187,218);
+    
   min-height: 100vh ;
 }
 
